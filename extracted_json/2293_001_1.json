@@ -1,0 +1,17 @@
+[
+  {
+    "is_one_liner": false,
+    "invoice_number": "90277623",
+    "client_name": "Recticel Insulation UK Ltd",
+    "hsn_code": "39211390",
+    "total_quantity": "3,214.464 KG",
+    "value": "9,617.41",
+    "currency": "EUR",
+    "confidence": 0.2,
+    "source_file": "2293_001 (1).pdf",
+    "source_pages": "5,6,7",
+    "extraction_method": "ocr_tesseract+regex+openai_text",
+    "error": null,
+    "source_path": "/Users/kumar/Documents/Synced_2/job/2026_1/arena/documents/2293_001 (1).pdf"
+  }
+]

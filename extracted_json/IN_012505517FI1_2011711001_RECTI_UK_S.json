@@ -1,0 +1,17 @@
+[
+  {
+    "is_one_liner": false,
+    "invoice_number": "12505517",
+    "client_name": "Recticel Insulation UK Ltd",
+    "hsn_code": "4811590090",
+    "total_quantity": "23546",
+    "value": "83.068,88",
+    "currency": "EUR",
+    "confidence": 0.5,
+    "source_file": "IN_012505517FI1_2011711001_RECTI UK S.pdf",
+    "source_pages": "1,2",
+    "extraction_method": "ocr_tesseract+regex+openai_text",
+    "error": null,
+    "source_path": "/Users/kumar/Documents/Synced_2/job/2026_1/arena/documents/IN_012505517FI1_2011711001_RECTI UK S.pdf"
+  }
+]

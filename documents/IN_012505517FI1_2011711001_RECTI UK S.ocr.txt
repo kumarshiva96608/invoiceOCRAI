@@ -1,0 +1,112 @@
+--- PAGE 1 ---
+°
+Walk |                                                       INVOICE                                                    Page: 1(2)
+Invoice no          Date
+12505517       16.10.25
+Order entry                    2 FI1763561-9          Ex-mill date
+Leena Suonpaa                        16.10.25
+Invoicing address                                      Contact person                                         Notify
+Recticel Limited                                      Leena Suonpaa
+Accounts Payable - ESSC                           Agent's order no.                                       Delivery no
+Damstraat 2                                                                                                                      648849
+BE-9230 Wetteren                                       Agent                                                        Delivery method
+Papertech Ltd, Dublin, Ireland                 Truck/Ship
+Belgien                                                                                                                                                  Delivery terms
+Delivery address                                     Payer 2011711001                                DAP (Incoterms 2020)
+Recticel Insulation UK Ltd                       Recticel Insulation UK Ltd                       Stoke-On-Trent
+:                                                                   :                                                                   Due date
+Enterprise Way Whittle Road                      Enterprise Way Whittle Road                      24.12.25
+Meir Park                                             Meir Park
+ST3 7UN Stoke-On-Trent                         ST3 7UN Stoke-On-Trent
+United Kingdom                                   United Kingdom
+Customer 2011711001                                    Cash disc terms
+Orderno / Whs       Order dt               Recticel Insulation UK Ltd                         15 days -2%
+0000261823/V01           22.08.25                  :                                                                   Payment terms
+Your order number        Your VAT reg no       Enterprise Way Whittle Road                        60 days net
+4501377271               GB 403966295        Meir Park
+Your reference                                     ST3 7UN Stoke-On-Trent                          Currency
+United Kingdom                                   EUR
+Ln            Item no                                Inv qty            UM Prqty          Sales price
+Description                                                                         Ctr of origin                 Discount                                Amount
+VAT
+20 FOAM 7DT 90 T1 PEFC HOLOGOGRID 147678        M2        100             56,25
+1215MM,100 % PEFC certified, standard paper                Fl                             0,00                       83.068,88
+WALKI@FOAM SEVEN DT 90                                                               0%
+Distribution order no.
+Customs stat no                            4811590090 PE-coated paper/liner/board
+Customer's material number                   05000000675
+Your order number                                   4501377271
+Country of Destination                              GB
+Cust P-cod        Print name           Width        Core diam      Reel dia max     Winding di Reel Lengt Weight req
+RECTIC LOGOR MM          MM              MM                               RM          KG
+1215          153                1200                PRINT OUT 6150          1300,0
+Gross weight                       23586 Net weight                   23546        No. pkgs                    20
+100% PEFC Certified
+PEFC Certificate Inspecta INS-PEFC-COC-207195
+FIIPOL16266 (01.11.2024)
+100% PEFC
+Certified INS-
+PEFC-COC-207195
+Please note that any demurrage or other delay
+costs in transportation inflicted by Brexit will be carried
+by the customer.
+The exporter of the products covered by this document
+(Customs Authorisation No. FIREX17635619) declares that,
+except where otherwise clearly indicated, these products
+are of EU preferential origin.
+0,00
+Walki Oy                                                   Tel.                                                                     Bank                                                          Swift code
+Valkeakoski                            +358205363111                              Danske Bank A/S, Finland Branch      DABAFIHH
+PL33                                Telefax                                                                          IBAN code
+37601 Valkeakoski                                                                                                                             FI87 8013 2710 0208 39
+Tax no.      1763561-9                                                          EUR
+VAT-code —F11763561-9
+Domicile: Valkeakoski
+
+--- PAGE 2 ---
+°
+Walk |                                                       INVOICE                                                    Page: 2(2)
+Invoice no        Date
+12505517       16.10.25
+Order no        / Whs                                            Order entry                                            Ex-mill date
+0000261823/V01                                         Leena Suonpaa                               16.10.25
+Your order number                                          Contact person                                   Delivery no
+4501377271                                               Leena Suonpaa                               648849
+Order dt                                                           Reference no                                        Customer
+22.08.25                                                                               Recticel Insulation UK Ltd
+Recipient                                                                                                                   Cust no
+Recticel Limited                                                                                  2011711001
+Payer
+Recticel Insulation UK Ltd
+Ln                     Item no                        Inv qty            UM Prqty          Sales price
+Description                                                                         Ctr of origin                 Discount                                Amount
+AT
+Item value                                             83.068,88
+Order total                                           83.068,88
+Invoice total                                          83.068,88
+TO PAY                                  83.068,88
+Total:
+Gross weight 23586                       Net weight       23546              No. pkgs             20
+VAT 0% supply to outside EU
+Interest at a yearly rate of 12,25 % will be charged for all
+overdue payments
+Marks and numbers
+Order number        (Internal/External)
+Lot number
+Customer
+Customer's material number
+Your order number
+Product name
+Walki EORI
+Fl1763561-9
+Customer EORI
+GB403966295000
+Reference no               1250 55176
+Sara Nieminen
+Walki Oy                                              Tel.                                                             Bank                                                   Swift code
+Valkeakoski                           4+358205363111                             Danske Bank A/S, Finland Branch DABAFIHH
+PL33                                Telefax                                                                          IBAN code
+37601 Valkeakoski                                                                                                                                F187 8013 2710 0208 39
+Taxno.  1763561-9                                                   EUR
+VAT-code FI1763561-9                .
+Domicile: Valkeakoski

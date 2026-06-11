@@ -1,0 +1,32 @@
+[
+  {
+    "is_one_liner": true,
+    "invoice_number": "94756854",
+    "client_name": "RECTICEL INSULATION UK LTD",
+    "hsn_code": "3907998090",
+    "total_quantity": "27.040",
+    "value": "40.938,56",
+    "currency": "EUR",
+    "confidence": 0.67,
+    "source_file": "Invoice.pdf",
+    "source_pages": "1",
+    "extraction_method": "ocr_tesseract+regex+openai_text",
+    "error": null,
+    "source_path": "/Users/kumar/Documents/Synced_2/job/2026_1/arena/documents/Invoice.pdf"
+  },
+  {
+    "is_one_liner": null,
+    "invoice_number": "94756854",
+    "client_name": "RECTICEL INSULATION UK LTD",
+    "hsn_code": null,
+    "total_quantity": null,
+    "value": null,
+    "currency": "EUR",
+    "confidence": 0.33,
+    "source_file": "Invoice.pdf",
+    "source_pages": "2",
+    "extraction_method": "ocr_tesseract+regex+openai_text",
+    "error": null,
+    "source_path": "/Users/kumar/Documents/Synced_2/job/2026_1/arena/documents/Invoice.pdf"
+  }
+]

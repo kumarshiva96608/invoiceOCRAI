@@ -1,0 +1,17 @@
+[
+  {
+    "is_one_liner": false,
+    "invoice_number": null,
+    "client_name": "FLEXOPACK TRADE AND SERVICES UK LIM",
+    "hsn_code": null,
+    "total_quantity": "20.542,80",
+    "value": "271.212,00",
+    "currency": null,
+    "confidence": 0.2,
+    "source_file": "FLEX001.pdf",
+    "source_pages": "3,4",
+    "extraction_method": "ocr_tesseract+regex+openai_text",
+    "error": null,
+    "source_path": "/Users/kumar/Documents/Synced_2/job/2026_1/arena/documents/FLEX001.pdf"
+  }
+]

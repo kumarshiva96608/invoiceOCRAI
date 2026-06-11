@@ -1,0 +1,7 @@
+is_one_liner,invoice_number,client_name,hsn_code,total_quantity,value,currency,confidence,source_file,source_pages,extraction_method,error,source_path
+False,90277623,Recticel Insulation UK Ltd,39211390,"3,214.464 KG","9,617.41",EUR,0.2,2293_001 (1).pdf,"5,6,7",ocr_tesseract+regex+openai_text,,/Users/kumar/Documents/Synced_2/job/2026_1/arena/documents/2293_001 (1).pdf
+True,9005271045,RECTICEL INSULATION UK LTD,2901100000,"19,240.000 KG","21,933.60",EUR,0.5,Commercial invoice 9005271045 Recticel UK.pdf,1,ocr_tesseract+regex+openai_text,,/Users/kumar/Documents/Synced_2/job/2026_1/arena/documents/Commercial invoice 9005271045 Recticel UK.pdf
+False,,FLEXOPACK TRADE AND SERVICES UK LIM,,"20.542,80","271.212,00",,0.2,FLEX001.pdf,"3,4",ocr_tesseract+regex+openai_text,,/Users/kumar/Documents/Synced_2/job/2026_1/arena/documents/FLEX001.pdf
+False,12505517,Recticel Insulation UK Ltd,4811590090,23546,"83.068,88",EUR,0.5,IN_012505517FI1_2011711001_RECTI UK S.pdf,"1,2",ocr_tesseract+regex+openai_text,,/Users/kumar/Documents/Synced_2/job/2026_1/arena/documents/IN_012505517FI1_2011711001_RECTI UK S.pdf
+True,94756854,RECTICEL INSULATION UK LTD,3907998090,27.040,"40.938,56",EUR,0.67,Invoice.pdf,1,ocr_tesseract+regex+openai_text,,/Users/kumar/Documents/Synced_2/job/2026_1/arena/documents/Invoice.pdf
+,94756854,RECTICEL INSULATION UK LTD,,,,EUR,0.33,Invoice.pdf,2,ocr_tesseract+regex+openai_text,,/Users/kumar/Documents/Synced_2/job/2026_1/arena/documents/Invoice.pdf
